@@ -13,7 +13,7 @@
 
 	Obtained dataset has 50 columns & 8397 records obtained out of 9320 separate links.
 
-	The website is Dynamically designed and has Dev-tools Bot detection, So I have designed code which will show random actions so that process doesn't get blocked.
+	The website is Dynamically designed and has Bot detection, So I have designed code which will show random actions so that process doesn't get blocked.
 
 	Code is designed to handle exceptions and overcome interruptions, except external problems like power cut-offs, internet-disconnectivity.
 
