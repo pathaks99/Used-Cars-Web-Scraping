@@ -1,11 +1,11 @@
 # Web Scraping Used Cars listing website
 
-About-
+###About-
 
 	In this project I have extracted data from a popular car listing website. 
 	This is one of a kind ultimate web scraping project and the data extracted can be used in EDA, Prediction Models etc.
 
-Project Highlights-
+###Project Highlights-
 
 	I have used Python for coding as well as, I have worked with Selenium, Webdriver, Fake-User_Agent module, Pandas.
 
@@ -19,7 +19,7 @@ Project Highlights-
 
 	Even if loop is broken, we can always resume where it is left.
 
-Overview-
+###Overview-
 
 	Phase 1- Gather all Used-Cars links for different major cities and group them together for automating further process. 
 ![Screenshot 2023-01-21 044741](https://user-images.githubusercontent.com/108428545/213824449-5ff218a2-0a1c-4190-bc74-feb89626bd7f.png)
